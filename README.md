@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Safa Ahmed 
+# 👋 Hello, I'm Safa Ahmed
 
-![](www.linkedin.com/in/safa-aseel-03ba8a1a3)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 💻 Information Technology Graduate passionate about building modern web applications and continuously improving my development skills.
 
@@ -67,8 +67,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: www.linkedin.com/in/safa-aseel-03ba8a1a3
+- 🐙 GitHub: https://github.com/safaahmedaseel
 
 ---
 
