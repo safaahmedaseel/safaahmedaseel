@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Information Technology Graduate
-- 🌐 Front-End Developer
+- 🌐 Interested in Front-End Developer
 - 🚀 Currently learning **PHP & Laravel**
 - 🧠 Interested in Full Stack Web Development
 - ✨ Building real projects to gain practical experience
